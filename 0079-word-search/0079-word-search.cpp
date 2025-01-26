@@ -1,49 +1,40 @@
+
 class Solution {
-public:
-    bool isSafe(int n, int m, int i, int j ){
-        return (i<n)&& (i>=0)&& (j>=0) &&(j<m);
-    }
-    bool backtrack(vector<vector<char>>&board, string word, int pos, int i, int j){
-        if(word[pos]!= board[i][j]){
+private:
+    bool dfs(vector<vector<char>> &board,vector<vector<int>> &visited,string &word,int i,int j,int idx){
+        if(idx == word.size()) return true;
+        if(i < 0 || i >= board.size() || j < 0 || j >= board[0].size() || visited[i][j] == 1 || board[i][j] != word[idx]){
             return false;
         }
-        if(pos== word.length()-1){
-            return true;
-        }
-        board[i][j]= '#';
-        if(isSafe(board.size(), board[0].size(), i+1,j)){
-            if(backtrack(board, word, pos+1, i+1, j))
-            return true;
-        }
-        if(isSafe(board.size(), board[0].size(), i,j+1)){
-            if(backtrack(board, word, pos+1, i, j+1))
-            return true;
-        }
-        if(isSafe(board.size(), board[0].size(), i-1,j)){
-            if(backtrack(board, word, pos+1, i-1, j))
-            return true;
-        }
-        if(isSafe(board.size(), board[0].size(), i,j-1)){
-            if(backtrack(board, word, pos+1, i, j-1))
-            return true;
-        }
-        board[i][j]= word[pos];
-        return false;
+        visited[i][j] = 1;
+
+        bool ls = dfs(board,visited,word,i,j-1,idx+1); 
+        bool rs = dfs(board,visited,word,i,j+1,idx+1); 
+        bool ds = dfs(board,visited,word,i+1,j,idx+1); 
+        bool us = dfs(board,visited,word,i-1,j,idx+1); 
+
+        visited[i][j] = 0;
+
+        return ls | rs | ds | us;
     }
+public:
     bool exist(vector<vector<char>>& board, string word) {
-        int row= board.size();
-        int col = board[0].size();
-        int startX=-1;
-        int startY=-1;
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if(board[i][j]==word[0]){
-                    if(backtrack(board, word, 0, i, j)){
+        int n = board.size();
+        int m = board[0].size();
+        vector<vector<int>> visited(n,vector<int>(m,0));
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(visited[i][j] == 0 && word[0] == board[i][j]){
+                    if(dfs(board,visited,word,i,j,0)){
                         return true;
                     }
                 }
             }
         }
+
         return false;
     }
 };
+
+// If it helps plz upvote :)
