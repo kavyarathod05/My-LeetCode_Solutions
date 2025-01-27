@@ -33,6 +33,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
+| [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Matrix
 |  |
@@ -41,9 +42,15 @@ A collection of all my solved LeetCode problems.
 ## Graph
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
