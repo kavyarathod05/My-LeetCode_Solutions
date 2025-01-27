@@ -1,35 +1,42 @@
+#include <unordered_map>
+#include <unordered_set>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
-    void dfs(int node , vector<vector<int>>& adj ,vector<int>&vis, set<pair<int,int>>&s, int start){
-        vis[node]=true;
-        if(start != -1){
-            s.insert({start, node});
-        }
-        for(auto& nei : adj[node]){
-            if(!vis[nei]){
-                dfs(nei , adj , vis, s, start);
-            }
-        }
-    }
     vector<bool> checkIfPrerequisite(int num, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
-        int n = prerequisites.size();
-        int qsize= queries.size();
-        vector<vector<int>> adj(num);
-        for(const auto& i: prerequisites){
-            adj[i[0]].push_back(i[1]);
+        unordered_map<int, unordered_set<int>> mp;
+        int qsize = queries.size();
+        vector<bool> ans(qsize, false);
+
+        for (auto& p : prerequisites) {
+            mp[p[0]].insert(p[1]);
         }
-        set<pair<int,int>> s;
-        for(int i=0;i<num;i++){
-            vector<int> vis(num,false);
-            dfs( i , adj,vis, s,i);
+
+        for (int start = 0; start < num; ++start) {
+            unordered_set<int> visited;
+            dfs(start, mp, visited);
+            mp[start].insert(visited.begin(), visited.end());
         }
-        vector<bool> ans(qsize,false);
-        for(int i=0;i<qsize;i++){
-            if(s.find({queries[i][0], queries[i][1]}) != s.end()  ){
-                ans[i]=true;
+
+        for (int i = 0; i < qsize; ++i) {
+            if (mp[queries[i][0]].count(queries[i][1])) {
+                ans[i] = true;
             }
         }
+
         return ans;
-        
+    }
+
+private:
+    void dfs(int node, unordered_map<int, unordered_set<int>>& mp, unordered_set<int>& visited) {
+        if (mp.find(node) == mp.end()) return;
+        for (int neighbor : mp[node]) {
+            if (!visited.count(neighbor)) {
+                visited.insert(neighbor);
+                dfs(neighbor, mp, visited);
+            }
+        }
     }
 };
