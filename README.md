@@ -29,16 +29,19 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0051-n-queens](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
 | [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -53,4 +56,9 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
