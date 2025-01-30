@@ -74,4 +74,9 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
