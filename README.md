@@ -8,6 +8,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of all my solved LeetCode problems.
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
+| [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -78,8 +80,13 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
