@@ -35,6 +35,7 @@ A collection of all my solved LeetCode problems.
 | [0051-n-queens](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3429-special-array-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3429-special-array-i) |
@@ -87,6 +88,7 @@ A collection of all my solved LeetCode problems.
 | [0020-valid-parentheses](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -95,4 +97,5 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
