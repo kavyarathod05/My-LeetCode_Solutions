@@ -9,6 +9,7 @@ A collection of all my solved LeetCode problems.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1364-tuple-with-same-product](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -50,6 +51,7 @@ A collection of all my solved LeetCode problems.
 | [0735-asteroid-collision](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1364-tuple-with-same-product](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -150,6 +152,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
