@@ -16,6 +16,7 @@ A collection of all my solved LeetCode problems.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -63,6 +64,7 @@ A collection of all my solved LeetCode problems.
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3429-special-array-i) |
@@ -150,12 +152,14 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Queue
 |  |
