@@ -30,6 +30,7 @@ A collection of all my solved LeetCode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3447-clear-digits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Backtracking
@@ -126,6 +127,7 @@ A collection of all my solved LeetCode problems.
 | [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -145,6 +147,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Greedy
