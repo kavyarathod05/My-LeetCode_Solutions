@@ -58,6 +58,7 @@ A collection of all my solved LeetCode problems.
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -81,6 +82,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
@@ -92,6 +94,7 @@ A collection of all my solved LeetCode problems.
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -110,6 +113,7 @@ A collection of all my solved LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
@@ -119,6 +123,7 @@ A collection of all my solved LeetCode problems.
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
