@@ -45,6 +45,7 @@ A collection of all my solved LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0542-01-matrix) |
@@ -185,6 +186,7 @@ A collection of all my solved LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -234,4 +236,8 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
