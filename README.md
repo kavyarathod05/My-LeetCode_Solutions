@@ -48,6 +48,7 @@ A collection of all my solved LeetCode problems.
 | [0070-climbing-stairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -60,6 +61,7 @@ A collection of all my solved LeetCode problems.
 | [0084-largest-rectangle-in-histogram](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
