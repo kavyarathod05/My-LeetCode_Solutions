@@ -75,6 +75,7 @@ A collection of all my solved LeetCode problems.
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -94,6 +95,7 @@ A collection of all my solved LeetCode problems.
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
@@ -106,6 +108,7 @@ A collection of all my solved LeetCode problems.
 | [0542-01-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -134,6 +137,7 @@ A collection of all my solved LeetCode problems.
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
@@ -143,6 +147,7 @@ A collection of all my solved LeetCode problems.
 | [0684-redundant-connection](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Stack
@@ -218,6 +223,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2434-design-a-number-container-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Monotonic Queue
@@ -247,5 +253,6 @@ A collection of all my solved LeetCode problems.
 ## Binary Search
 |  |
 | ------- |
+| [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
