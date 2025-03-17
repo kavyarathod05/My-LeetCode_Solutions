@@ -11,6 +11,7 @@ A collection of all my solved LeetCode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1364-tuple-with-same-product](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -110,6 +111,7 @@ A collection of all my solved LeetCode problems.
 | [0813-all-paths-from-source-to-target](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -138,6 +140,7 @@ A collection of all my solved LeetCode problems.
 | [0803-cheapest-flights-within-k-stops](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -171,6 +174,7 @@ A collection of all my solved LeetCode problems.
 | [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
