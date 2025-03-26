@@ -30,6 +30,7 @@ A collection of all my solved LeetCode problems.
 | [0131-palindrome-partitioning](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [1170-shortest-common-supersequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -59,6 +60,7 @@ A collection of all my solved LeetCode problems.
 | [0198-house-robber](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
