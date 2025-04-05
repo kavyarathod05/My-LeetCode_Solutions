@@ -22,6 +22,7 @@ A collection of all my solved LeetCode problems.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -121,6 +122,7 @@ A collection of all my solved LeetCode problems.
 | [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2690-house-robber-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -263,6 +265,7 @@ A collection of all my solved LeetCode problems.
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
@@ -332,6 +335,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
 ## Sorting
 |  |
 | ------- |
