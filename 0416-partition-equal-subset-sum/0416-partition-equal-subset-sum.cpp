@@ -1,32 +1,23 @@
 class Solution {
 public:
-    bool canPartition(vector<int> &nums) {
+    bool f(int ind, int target, vector<int>&nums, vector<vector<int>>&dp){
+        if(target==0) return dp[ind][target]= true;
+        if(ind==0 ) return (nums[ind]==target)?(dp[ind][target]=true):(dp[ind][target]=false);
+        if(dp[ind][target] != -1) return dp[ind][target];
+        bool notake = f(ind-1, target, nums,dp);
+        bool take = false;
+        if(target>nums[ind]){
+            take = f(ind-1, target- nums[ind],nums,dp);
+        }
+        return dp[ind][target]= (take||notake); 
+    }
+    bool canPartition(vector<int>& nums) {
         int n = nums.size();
-        int sum = 0;
-        
-        for (int num : nums) {
-            sum += num;
-        }
+        int sum = std::accumulate(nums.begin(), nums.end(), 0);
 
-        if (sum % 2 == 1) return false;
-
-        int target = sum / 2;
-        vector<vector<bool>> dp(n, vector<bool>(target + 1, false));
-
-        if (nums[0] <= target) dp[0][nums[0]] = true;
-
-        
-        for (int ind = 1; ind < n; ind++) {
-            for (int t = 0; t <= target; t++) {
-                bool notTake = dp[ind - 1][t]; 
-                bool take = false;
-                if (t >= nums[ind]) {
-                    take = dp[ind - 1][t - nums[ind]]; 
-                }
-                dp[ind][t] = take || notTake;
-            }
-        }
-
-        return dp[n - 1][target];
+        if(sum%2 != 0 )return false;
+        int target= sum/2;
+        vector<vector<int>>dp(n+1, vector<int>(target+1,-1));
+        return f(n-1, target, nums,dp);
     }
 };
