@@ -101,6 +101,7 @@ A collection of all my solved LeetCode problems.
 | [0085-maximal-rectangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -264,6 +265,7 @@ A collection of all my solved LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
