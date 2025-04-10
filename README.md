@@ -94,6 +94,7 @@ A collection of all my solved LeetCode problems.
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
@@ -356,6 +357,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0018-4sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1129-longest-string-chain) |
