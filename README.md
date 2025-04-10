@@ -75,6 +75,7 @@ A collection of all my solved LeetCode problems.
 | [0300-longest-increasing-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -108,6 +109,7 @@ A collection of all my solved LeetCode problems.
 | [0300-longest-increasing-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -268,6 +270,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0135-candy](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
@@ -358,6 +361,7 @@ A collection of all my solved LeetCode problems.
 | [0018-4sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1129-longest-string-chain) |
