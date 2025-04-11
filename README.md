@@ -49,6 +49,7 @@ A collection of all my solved LeetCode problems.
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3447-clear-digits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of all my solved LeetCode problems.
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of all my solved LeetCode problems.
 | [2998-count-symmetric-integers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0062-unique-paths](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -392,4 +396,8 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
