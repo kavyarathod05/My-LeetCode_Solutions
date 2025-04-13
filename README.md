@@ -285,6 +285,7 @@ A collection of all my solved LeetCode problems.
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2050-count-good-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
@@ -400,4 +401,8 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
