@@ -148,6 +148,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -203,6 +204,7 @@ A collection of all my solved LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0322-coin-change) |
@@ -412,11 +414,13 @@ A collection of all my solved LeetCode problems.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
