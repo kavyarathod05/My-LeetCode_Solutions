@@ -12,6 +12,7 @@ A collection of all my solved LeetCode problems.
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
@@ -120,6 +121,7 @@ A collection of all my solved LeetCode problems.
 | [0542-01-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -291,12 +293,14 @@ A collection of all my solved LeetCode problems.
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0890-lemonade-change) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
