@@ -1,20 +1,18 @@
 class Solution {
 public:
-   
+    int f(int ind, int last , vector<int>&nums, vector<int>&dp){
+        int n =nums.size();
+        if(ind<0 ) return 0;
+        if(dp[ind]!= -1) return dp[ind];
+        int take = INT_MIN;
+       take  = f(ind-2, ind, nums,dp)+nums[ind];
+        
+        int nottake= f(ind-1, last, nums,dp);        
+        return dp[ind]= max(take,nottake);
+    }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if (n == 1) return nums[0]; 
-        int prev2=nums[0];
-        int prev1 = max(nums[0], nums[1]);
-        int curr=0;
-        for(int i=2;i<n;i++){
-            
-            int pick= nums[i]+prev2;
-            int nonpick= 0+prev1;
-            curr= max(pick,nonpick);
-            prev2=prev1;
-            prev1=curr;
-        }
-        return prev1;
+        vector<int> dp(n+1,-1);
+        return f(n-1,-1,nums,dp);   
     }
 };
