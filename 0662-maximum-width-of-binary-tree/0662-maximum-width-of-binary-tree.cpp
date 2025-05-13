@@ -13,7 +13,7 @@ public:
             unsigned long long first = 0, last = 0;
 
             for (int i = 0; i < sz; i++) {
-                unsigned long long curr = q.front().second - mini;
+                unsigned long long curr = q.front().second ;
                 TreeNode* node = q.front().first;
                 q.pop();
 
