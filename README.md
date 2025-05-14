@@ -391,6 +391,7 @@ A collection of all my solved LeetCode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2690-house-robber-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2690-house-robber-iv) |
@@ -424,6 +425,7 @@ A collection of all my solved LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Two Pointers
@@ -465,6 +467,7 @@ A collection of all my solved LeetCode problems.
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -475,5 +478,6 @@ A collection of all my solved LeetCode problems.
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
