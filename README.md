@@ -476,6 +476,7 @@ A collection of all my solved LeetCode problems.
 | [0199-binary-tree-right-side-view](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -487,4 +488,9 @@ A collection of all my solved LeetCode problems.
 | [0199-binary-tree-right-side-view](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
