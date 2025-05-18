@@ -1,48 +1,30 @@
 class Solution {
 public:
-    int findParent(int x, vector<int>& parent){
-        if(parent[x]==x){
-            return x;
-        }
-        return findParent(parent[x] , parent);
-    }
-    void unionNode(int a, int b, vector<int>&parent, vector<int>& rank){
-         a = findParent(a, parent);
-         b= findParent(b,parent);
-        if(a==b) return ;
-        if(rank[a]  < rank[b]){
-            parent[a] =b;
-        }
-        else if(rank[b]< rank[a]){
-            parent[b]= a;
-        }
-        else{
-            parent[b]=a;
-            rank[a]++;
+    void dfs(int node, vector<bool>&vis , vector<vector<int>>&adj){
+        vis[node]=1;
+        for(auto it:adj[node]){
+            if(!vis[it]){
+                dfs(it, vis,adj);
+            }
         }
     }
-
     int makeConnected(int n, vector<vector<int>>& connections) {
-        vector<int> parent(n), rank(n,0);
-        iota(parent.begin(), parent.end(), 0);
-        int extra=0;
-        for(auto &e: connections){
-            int u = e[0];
-            int v = e[1];
-            if(findParent(u, parent) != findParent(v,parent)){
-                unionNode(u,v,parent,rank);
-            }
-            else{
-                extra++;
-            }
+        vector<bool> vis(n, false);
+        int len = connections.size();
+        if(len<n-1) return -1;
+        vector<vector<int>> adj(n);
+        for(auto it:connections){
+            adj[it[0]].push_back(it[1]);
+            adj[it[1]].push_back(it[0]);
         }
         int c=0;
         for(int i=0;i<n;i++){
-            if(findParent(i,parent)==i){
+            if(!vis[i]){
                 c++;
+                dfs(i,vis,adj);
             }
         }
-        int need = c-1;
-        return (extra>=need)?need:-1;
+        return c-1;
+
     }
 };
