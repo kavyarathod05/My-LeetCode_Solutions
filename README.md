@@ -178,6 +178,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -485,6 +486,7 @@ A collection of all my solved LeetCode problems.
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -500,6 +502,7 @@ A collection of all my solved LeetCode problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -515,6 +518,7 @@ A collection of all my solved LeetCode problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
