@@ -70,6 +70,7 @@ A collection of all my solved LeetCode problems.
 | [0039-combination-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
@@ -123,6 +124,7 @@ A collection of all my solved LeetCode problems.
 | [0063-unique-paths-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
@@ -462,6 +464,7 @@ A collection of all my solved LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
