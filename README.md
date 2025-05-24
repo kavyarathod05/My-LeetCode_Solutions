@@ -56,6 +56,7 @@ A collection of all my solved LeetCode problems.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3194-find-words-containing-character](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -164,6 +165,7 @@ A collection of all my solved LeetCode problems.
 | [2699-count-the-number-of-fair-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3194-find-words-containing-character](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3321-type-of-triangle) |
