@@ -113,6 +113,7 @@ A collection of all my solved LeetCode problems.
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3795-zero-array-transformation-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3795-zero-array-transformation-iv) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Array
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of all my solved LeetCode problems.
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3795-zero-array-transformation-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3795-zero-array-transformation-iv) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of all my solved LeetCode problems.
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Matrix
 |  |
 | ------- |
@@ -523,6 +526,7 @@ A collection of all my solved LeetCode problems.
 | [0662-maximum-width-of-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
