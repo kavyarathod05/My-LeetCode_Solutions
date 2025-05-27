@@ -9,6 +9,7 @@ A collection of all my solved LeetCode problems.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
+| [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -138,6 +139,7 @@ A collection of all my solved LeetCode problems.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -379,6 +381,7 @@ A collection of all my solved LeetCode problems.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -462,6 +465,7 @@ A collection of all my solved LeetCode problems.
 | [0018-4sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
@@ -558,4 +562,8 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
