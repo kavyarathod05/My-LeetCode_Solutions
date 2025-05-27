@@ -64,6 +64,7 @@ A collection of all my solved LeetCode problems.
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [3867-lexicographically-smallest-string-after-adjacent-removals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3867-lexicographically-smallest-string-after-adjacent-removals) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of all my solved LeetCode problems.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3795-zero-array-transformation-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3795-zero-array-transformation-iv) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
+| [3867-lexicographically-smallest-string-after-adjacent-removals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3867-lexicographically-smallest-string-after-adjacent-removals) |
 ## Array
 |  |
 | ------- |
