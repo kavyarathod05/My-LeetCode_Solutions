@@ -162,6 +162,7 @@ A collection of all my solved LeetCode problems.
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
@@ -445,6 +446,7 @@ A collection of all my solved LeetCode problems.
 | [0074-search-a-2d-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2690-house-robber-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
