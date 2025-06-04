@@ -63,6 +63,7 @@ A collection of all my solved LeetCode problems.
 | [3194-find-words-containing-character](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -502,6 +503,7 @@ A collection of all my solved LeetCode problems.
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1129-longest-string-chain) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
 |  |
 | ------- |
@@ -515,6 +517,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
