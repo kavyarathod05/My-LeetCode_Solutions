@@ -1,24 +1,25 @@
 class Solution {
 public:
-    void f(int ind, vector<int>&nums, int k,vector<int>&temp ,vector<vector<int>>&ans){
-        if(k==0){
+    void solve(vector<int>&c, int t, vector<vector<int>>&ans, vector<int>&temp, int ind){
+        if(ind==c.size() || t<0){
+            return;
+        }
+        if(t==0 ){
             ans.push_back(temp);
             return;
         }
-        if(ind>= nums.size()){
-            return ;
-        }
-        if(nums[ind]<=k){
-            temp.push_back(nums[ind]);
-            f(ind,nums,k-nums[ind],temp,ans);
-            temp.pop_back();
-        }
-     f(ind+1, nums,k,temp,ans);
+        //take
+        temp.push_back(c[ind]);
+        solve(c, t-c[ind], ans, temp , ind);
+        //not take
+        temp.pop_back();
+        solve(c, t, ans, temp , ind+1);
     }
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int> temp;
+    vector<vector<int>> combinationSum(vector<int>& c, int target) {
+        int n = c.size();
         vector<vector<int>> ans;
-         f(0,candidates, target,temp,ans);
+        vector<int> temp;
+        solve(c, target, ans, temp,0);
         return ans;
     }
 };
