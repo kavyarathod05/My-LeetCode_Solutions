@@ -75,6 +75,7 @@ A collection of all my solved LeetCode problems.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0078-subsets) |
@@ -128,6 +129,7 @@ A collection of all my solved LeetCode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0056-merge-intervals) |
