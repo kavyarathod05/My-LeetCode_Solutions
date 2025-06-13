@@ -184,6 +184,7 @@ A collection of all my solved LeetCode problems.
 | [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2690-house-robber-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3194-find-words-containing-character](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
@@ -371,6 +372,7 @@ A collection of all my solved LeetCode problems.
 | [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Math
 |  |
@@ -460,6 +462,7 @@ A collection of all my solved LeetCode problems.
 | [2047-find-a-peak-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2690-house-robber-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Shortest Path
 |  |
