@@ -46,6 +46,7 @@ A collection of all my solved LeetCode problems.
 | [0038-count-and-say](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0402-remove-k-digits) |
@@ -94,6 +95,7 @@ A collection of all my solved LeetCode problems.
 | [0070-climbing-stairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
