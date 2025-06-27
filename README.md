@@ -171,6 +171,7 @@ A collection of all my solved LeetCode problems.
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
@@ -253,6 +254,7 @@ A collection of all my solved LeetCode problems.
 | [0542-01-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -302,6 +304,7 @@ A collection of all my solved LeetCode problems.
 | [0813-all-paths-from-source-to-target](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
