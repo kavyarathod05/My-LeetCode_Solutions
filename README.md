@@ -136,6 +136,7 @@ A collection of all my solved LeetCode problems.
 | [0039-combination-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -248,6 +249,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -393,6 +395,7 @@ A collection of all my solved LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
