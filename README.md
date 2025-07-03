@@ -130,6 +130,7 @@ A collection of all my solved LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
@@ -498,6 +499,7 @@ A collection of all my solved LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0056-merge-intervals) |
@@ -523,6 +525,7 @@ A collection of all my solved LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
