@@ -211,6 +211,7 @@ A collection of all my solved LeetCode problems.
 | [3639-zero-array-transformation-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3795-zero-array-transformation-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3795-zero-array-transformation-iv) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -398,6 +399,7 @@ A collection of all my solved LeetCode problems.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Math
 |  |
 | ------- |
@@ -555,6 +557,7 @@ A collection of all my solved LeetCode problems.
 | [2215-finding-3-digit-even-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Number Theory
 |  |
 | ------- |
