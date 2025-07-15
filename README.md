@@ -13,6 +13,7 @@ A collection of all my solved LeetCode problems.
 | [0127-word-ladder](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
@@ -364,6 +365,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
@@ -621,6 +623,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -630,4 +633,8 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
