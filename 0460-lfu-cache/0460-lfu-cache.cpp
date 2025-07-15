@@ -1,58 +1,55 @@
 class LFUCache {
-    int capacity;
-    int minFreq;
-    unordered_map<int,pair<int,int>> keyVal;
-    unordered_map<int,list<int>> freqList;
-    unordered_map<int,list<int>::iterator> pos;
 public:
+    int cap;
+    int size;
+    unordered_map<int,list<vector<int>>::iterator>mp;
+    map<int,list<vector<int>>>freq;
     LFUCache(int capacity) {
-        this->capacity = capacity;
-        minFreq = 0;
+        cap=capacity;
+        size=0;
+    }
+
+    void makeMostFrequentlyUsed(int k){
+        auto &vec=(*(mp[k]));
+        int key=vec[0],value=vec[1],f=vec[2];
+
+        freq[f].erase(mp[key]);
+        if(freq[f].empty()) freq.erase(f);
+
+        freq[f+1].push_front(vector<int>({key,value,f+1}));
+        mp[key]=freq[f+1].begin();
     }
     
     int get(int key) {
-        if(keyVal.find(key) == keyVal.end())
-            return -1;
-        freqList[keyVal[key].second].erase(pos[key]);
-        keyVal[key].second++;
-        freqList[keyVal[key].second].push_back(key);
-        pos[key] = --freqList[keyVal[key].second].end();
-        if(freqList[minFreq].empty())
-            minFreq++;
-        return keyVal[key].first;
+        if(!mp.count(key)) return -1;
+
+        auto &vec=(*(mp[key]));
+        int val=vec[1];
+        makeMostFrequentlyUsed(key);
+        return val;
     }
     
     void put(int key, int value) {
-        if(!capacity)
-            return;
-        if(keyVal.find(key) != keyVal.end()) {
-            keyVal[key].first = value;
-            freqList[keyVal[key].second].erase(pos[key]);
-            keyVal[key].second++;
-            freqList[keyVal[key].second].push_back(key);
-            pos[key] = --freqList[keyVal[key].second].end();
-            if(freqList[minFreq].empty())
-                minFreq++;
-            return;
+        if(cap==0) return;
+
+        if(mp.count(key)){
+            auto &vec=(*(mp[key]));
+            vec[1]=value;
+            makeMostFrequentlyUsed(key);
+        } else if(size<cap){
+            size++;
+            freq[1].push_front(vector<int>({key,value,1}));
+            mp[key]=freq[1].begin();
+        } else{
+            auto &lru_list=freq.begin()->second;
+            int key_delete=lru_list.back()[0];
+            lru_list.pop_back();
+            mp.erase(key_delete);
+
+            if(lru_list.empty()) freq.erase(freq.begin()->first);
+
+            freq[1].push_front(vector<int>({key,value,1}));
+            mp[key]=freq[1].begin();
         }
-        if(keyVal.size() == capacity) {
-            int delKey = freqList[minFreq].front();
-            keyVal.erase(delKey);
-            pos.erase(delKey);
-            freqList[minFreq].pop_front();
-        }
-        keyVal[key] = {value,1};
-        freqList[1].push_back(key);
-        pos[key] = --freqList[1].end();
-        minFreq = 1;
     }
 };
-
-
-
-/**
- * Your LFUCache object will be instantiated and called as such:
- * LFUCache* obj = new LFUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
