@@ -215,6 +215,7 @@ A collection of all my solved LeetCode problems.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3791-fruits-into-baskets-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3795-zero-array-transformation-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3795-zero-array-transformation-iv) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -476,6 +477,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
+| [3791-fruits-into-baskets-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Data Stream
 |  |
 | ------- |
@@ -498,6 +500,7 @@ A collection of all my solved LeetCode problems.
 | [2699-count-the-number-of-fair-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -640,4 +643,8 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
