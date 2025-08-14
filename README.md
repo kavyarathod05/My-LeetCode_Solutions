@@ -181,6 +181,7 @@ A collection of all my solved LeetCode problems.
 | [1014-k-closest-points-to-origin](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1129-longest-string-chain) |
@@ -362,6 +363,7 @@ A collection of all my solved LeetCode problems.
 | [0678-valid-parenthesis-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Design
@@ -381,6 +383,7 @@ A collection of all my solved LeetCode problems.
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -598,6 +601,7 @@ A collection of all my solved LeetCode problems.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -620,6 +624,7 @@ A collection of all my solved LeetCode problems.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -629,6 +634,7 @@ A collection of all my solved LeetCode problems.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
