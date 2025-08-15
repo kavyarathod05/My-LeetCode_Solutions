@@ -413,6 +413,7 @@ A collection of all my solved LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0070-climbing-stairs) |
@@ -540,6 +541,7 @@ A collection of all my solved LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
