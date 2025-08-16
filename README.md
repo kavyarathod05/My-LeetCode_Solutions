@@ -156,6 +156,7 @@ A collection of all my solved LeetCode problems.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0198-house-robber) |
@@ -544,6 +545,7 @@ A collection of all my solved LeetCode problems.
 | [0029-divide-two-integers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
