@@ -189,6 +189,7 @@ A collection of all my solved LeetCode problems.
 | [1129-longest-string-chain](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -504,6 +505,7 @@ A collection of all my solved LeetCode problems.
 | [0300-longest-increasing-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2690-house-robber-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2690-house-robber-iv) |
