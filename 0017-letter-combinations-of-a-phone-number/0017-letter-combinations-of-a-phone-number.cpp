@@ -1,22 +1,22 @@
 class Solution {
-    private:
-        map<int, string> m;
-        vector<string> ans;
+    map<int, string> m;
+    vector<string> ans;
 public:
-    void makeCombinations(string &currString, string digits ,int ind){
-        if(ind== digits.size()) {
-            ans.push_back(currString);
-            return ;
+    void makeCombinations(string &curr, string digits,int ind ){
+        int n = digits.size();
+        if(ind==n){
+            ans.push_back(curr);
+            return;
         }
-        for(auto letter: m[digits[ind]-'0']){
-            currString.push_back(letter);
-            makeCombinations(currString, digits, ind+1);
-            currString.pop_back();
-        }
-        return ;
 
+        for(auto letter: m[digits[ind]-'0']){
+            curr.push_back(letter);
+            makeCombinations(curr, digits, ind+1);
+            curr.pop_back();
+        }
+        return;
     }
-    vector<string> letterCombinations(string digits) {
+   vector<string> letterCombinations(string digits) {
         int n = digits.size();
         if(n==0) return ans;
         m[2] = "abc";
@@ -32,5 +32,4 @@ public:
 
         return ans;
     } 
-
 };
