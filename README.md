@@ -11,6 +11,7 @@ A collection of all my solved LeetCode problems.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -669,6 +670,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 ## Divide and Conquer
 |  |
