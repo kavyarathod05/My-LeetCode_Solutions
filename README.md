@@ -374,6 +374,7 @@ A collection of all my solved LeetCode problems.
 | [0145-binary-tree-postorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -388,6 +389,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2169-simple-bank-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2169-simple-bank-system) |
@@ -467,6 +469,7 @@ A collection of all my solved LeetCode problems.
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
