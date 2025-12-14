@@ -1,39 +1,28 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
-        int m = nums2.size();
-        vector<int> ans(n,-1);
-        vector<int> temp(m);
-        temp[m-1]=-1;
-        stack<int>st;
-        st.push(nums2[m-1]);
-        for(int i=m-2;i>=0;i--){
-            if(st.top()>nums2[i]){
-                temp[i]=st.top();
-                st.push(nums2[i]);
+        unordered_map<int, int> mp;
+        stack<int> st;
+
+        for(int i = nums2.size() - 1; i >= 0; --i) {
+            while(!st.empty() && st.top() <= nums2[i]) {
+                st.pop();
             }
-            else{
-                while(!st.empty() && st.top()<nums2[i]){
-                    st.pop();
-                }
-                if(st.empty()){
-                    temp[i]=-1;
-                    st.push(nums2[i]);
-                }
-                else{
-                    temp[i]=st.top();
-                    st.push(nums2[i]);
-                }
+
+            if(!st.empty()) {
+                mp[nums2[i]] = st.top();
+            } else {
+                mp[nums2[i]] = -1;
             }
+
+            st.push(nums2[i]);
         }
-        unordered_map<int,int> mp;
-        for(int i=0;i<m;i++){
-            mp[nums2[i]]=i;
+
+        vector<int> ans;
+        for(int num : nums1) {
+            ans.push_back(mp[num]);
         }
-        for(int i=0;i<n;i++){
-             ans[i]= temp[mp[nums1[i]]];
-        }
+
         return ans;
     }
 };
