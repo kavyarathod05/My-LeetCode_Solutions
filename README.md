@@ -12,6 +12,7 @@ A collection of all my solved LeetCode problems.
 | [0126-word-ladder-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -387,6 +388,7 @@ A collection of all my solved LeetCode problems.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -680,6 +682,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 ## Divide and Conquer
 |  |
@@ -695,6 +698,7 @@ A collection of all my solved LeetCode problems.
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 ## Segment Tree
 |  |
