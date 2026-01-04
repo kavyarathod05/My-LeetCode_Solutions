@@ -93,6 +93,7 @@ A collection of all my solved LeetCode problems.
 | [0090-subsets-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
 ## Dynamic Programming
@@ -166,6 +167,7 @@ A collection of all my solved LeetCode problems.
 | [0152-maximum-product-subarray](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
