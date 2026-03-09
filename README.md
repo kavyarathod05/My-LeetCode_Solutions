@@ -6,6 +6,7 @@ A collection of all my solved LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -142,6 +143,7 @@ A collection of all my solved LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
