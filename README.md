@@ -607,6 +607,7 @@ A collection of all my solved LeetCode problems.
 | [0090-subsets-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1009-complement-of-base-10-integer](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
