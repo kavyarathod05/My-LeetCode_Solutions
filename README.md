@@ -765,4 +765,8 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
