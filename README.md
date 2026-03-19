@@ -245,6 +245,7 @@ A collection of all my solved LeetCode problems.
 | [2915-count-of-interesting-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3194-find-words-containing-character](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -322,6 +323,7 @@ A collection of all my solved LeetCode problems.
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Graph
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of all my solved LeetCode problems.
 | [2249-count-the-hidden-sequences](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3639-zero-array-transformation-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Ordered Set
