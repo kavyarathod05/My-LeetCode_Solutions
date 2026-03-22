@@ -791,4 +791,8 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
