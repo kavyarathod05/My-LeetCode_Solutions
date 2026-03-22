@@ -1,66 +1,70 @@
 class Solution {
 public:
-    unordered_map<string,int>mpp;
-    vector<vector<string>>ans;
+    unordered_map<string, int> mp;
+    vector<vector<string>> ans;
     string b;
-
-    void dfs(string word, vector<string>& seq){
-        if(word == b){
-            reverse(seq.begin(), seq.end());
-            ans.push_back(seq);
-            reverse(seq.begin(), seq.end());
+    void dfs(string end, vector<string>&temp){
+        int steps = mp[end];
+        if(end==b){
+            reverse(temp.begin(), temp.end());
+            ans.push_back(temp);
+            reverse(temp.begin(), temp.end());
+            cout<<"done"<<endl;
             return;
         }
-        int steps = mpp[word];
-        for(int i = 0; i < word.size(); i++){
-            char ori = word[i];
-            for(char ch = 'a'; ch <= 'z'; ch++){
-                word[i] = ch;
-                if(mpp.find(word) != mpp.end() && mpp[word] + 1 == steps){
-                    seq.push_back(word);
-                    dfs(word, seq);
-                    seq.pop_back();
+        for(int i=0;i<end.size();i++){
+            char ch = end[i];
+            for(char c ='a'; c<='z';c++){
+                end[i]=c;
+                if(mp.find(end)!=mp.end() && mp[end]+1 == steps){
+                    temp.push_back(end);
+                    dfs(end, temp);
+                    temp.pop_back();
                 }
             }
-            word[i] = ori;
+            end[i]=ch;
         }
     }
-
     vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
-        unordered_set<string> st(wordList.begin(), wordList.end());
-        if(st.find(endWord) == st.end()) return {};
-
-        queue<string> q;
-        b = beginWord;
-        mpp[beginWord] = 0;
-        q.push(beginWord);
-
+        unordered_set<string>st(wordList.begin(), wordList.end());
+        queue<pair<string,int>>q;
+        q.push({beginWord,1});
+        b= beginWord;
+        st.erase(beginWord);
+        int depth = 1;
+        mp[beginWord]=1;
         while(!q.empty()){
-            string top = q.front();
-            int steps = mpp[top];
+            auto it = q.front();
             q.pop();
-
-            for(int i = 0; i < top.size(); i++){
-                char ori = top[i];
-                for(char ch = 'a'; ch <= 'z'; ch++){
-                    top[i] = ch;
-                    if(st.find(top) != st.end()){
-                        if(mpp.find(top) == mpp.end()){
-                            mpp[top] = steps + 1;
-                            q.push(top);
+            string s = it.first;
+            int len  = it.second;
+            if(s==endWord){
+                depth = len;
+                break;
+            }
+            for(int i=0;i<s.size();i++){
+                char c = s[i];
+                for(char ch = 'a' ; ch<='z' ; ch++){
+                    s[i]=ch;
+                    if(st.find(s)!=st.end()){
+                        if(mp.find(s)==mp.end()){
+                        q.push({s, len+1});
+                        mp[s]= len+1;
                         }
                     }
                 }
-                top[i] = ori;
+                s[i]=c;
             }
         }
-
-        if(mpp.find(endWord) != mpp.end()){
-            vector<string> seq;
-            seq.push_back(endWord);
-            dfs(endWord, seq);
+        for(auto it:mp){
+            cout<<it.first<<" "<<it.second<<endl;
         }
-
+        // here i get value of the depth 
+        if(mp.find(endWord)!=mp.end()){
+            vector<string> temp;
+            temp.push_back(endWord);
+            dfs(endWord, temp );
+        }   
         return ans;
     }
 };
