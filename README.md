@@ -230,6 +230,7 @@ A collection of all my solved LeetCode problems.
 | [1631-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -324,6 +325,7 @@ A collection of all my solved LeetCode problems.
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
