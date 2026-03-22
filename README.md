@@ -288,6 +288,7 @@ A collection of all my solved LeetCode problems.
 | [0684-redundant-connection](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -375,6 +376,7 @@ A collection of all my solved LeetCode problems.
 | [0684-redundant-connection](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -780,6 +782,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Database
 |  |
@@ -797,4 +800,5 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
