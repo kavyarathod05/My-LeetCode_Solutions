@@ -1,38 +1,39 @@
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>>& adj, vector<int>& vis, vector<int>& pathVis) {
-        vis[node] = 1;      
-        pathVis[node] = 1;   
-        
-        for (auto neighbor : adj[node]) {
-            if (!vis[neighbor]) {
-                if (dfs(neighbor, adj, vis, pathVis)) return true;  
-            } else if (pathVis[neighbor]) {
-                return true;  
-                }
-        }
-        
-        pathVis[node] = 0; 
-        return false;
-    }
+    bool dfs(int ind, vector<int>& vis, vector<int>& pathvis, vector<vector<int>>& adj){
+        vis[ind] = 1;
+        pathvis[ind] = 1;
 
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        
-       
-        for (auto& pre : prerequisites) {
-            adj[pre[1]].push_back(pre[0]);  
-        }
-        
-        vector<int> vis(numCourses, 0);
-        vector<int> pathVis(numCourses, 0);  
-        
-        for (int i = 0; i < numCourses; i++) {
-            if (!vis[i]) {
-                if (dfs(i, adj, vis, pathVis)) return false; 
+        for(auto it : adj[ind]){
+            if(!vis[it]){
+                if(!dfs(it, vis, pathvis, adj))
+                    return false;
+            }
+            else if(pathvis[it]){
+                return false; // cycle detected
             }
         }
-        
-        return true; 
+
+        pathvis[ind] = 0; // backtrack
+        return true;
+    }
+
+    bool canFinish(int n, vector<vector<int>>& edges) {
+        vector<int> vis(n, 0);       
+        vector<int> pathvis(n, 0);
+        vector<vector<int>> adj(n);
+
+        for(auto it : edges){
+            adj[it[1]].push_back(it[0]);
         }
+
+        for(int i = 0; i < n; i++){
+            if(!vis[i]){
+                if(!dfs(i, vis, pathvis, adj))
+                    return false;
+            }
+        }
+
+        return true;
+    }
 };
