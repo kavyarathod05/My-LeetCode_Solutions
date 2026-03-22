@@ -3,28 +3,34 @@ public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
         vector<int> indegree(numCourses, 0);
-        
-        for (auto& pre : prerequisites) {
-            adj[pre[1]].push_back(pre[0]);
-            indegree[pre[0]]++;
+        for (auto& vec : prerequisites) {
+            int a = vec[0], b = vec[1];
+            adj[b].push_back(a);
+            indegree[a]++;
         }
-
         queue<int> q;
-        for (int i = 0; i < numCourses; ++i)
-            if (indegree[i] == 0) q.push(i);
-        
-        vector<int> order;
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0)
+                q.push(i);
+        }
+        vector<int> ans;
+        if (q.empty())
+            return {};
         while (!q.empty()) {
-            int node = q.front(); q.pop();
-            order.push_back(node);
-
-            for (int neighbor : adj[node]) {
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 0)
-                    q.push(neighbor);
+            int node = q.front();
+            q.pop();
+            ans.push_back(node);
+            for (auto it : adj[node]) {
+                indegree[it]--;
+                if (indegree[it] == 0) {
+                    q.push(it);
+                }
             }
         }
+        if (ans.size() == numCourses) {
+            return ans;
+        }
 
-        return (order.size() == numCourses) ? order : vector<int>();
+        return {};
     }
 };
