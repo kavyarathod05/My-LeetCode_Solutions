@@ -246,6 +246,7 @@ A collection of all my solved LeetCode problems.
 | [2699-count-the-number-of-fair-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3194-find-words-containing-character](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
@@ -330,6 +331,7 @@ A collection of all my solved LeetCode problems.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph
@@ -557,6 +559,7 @@ A collection of all my solved LeetCode problems.
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2249-count-the-hidden-sequences](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2249-count-the-hidden-sequences) |
+| [2906-construct-product-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
