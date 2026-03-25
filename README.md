@@ -259,6 +259,7 @@ A collection of all my solved LeetCode problems.
 | [3429-special-array-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3429-special-array-i) |
 | [3433-count-mentions-per-user](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3639-zero-array-transformation-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -333,6 +334,7 @@ A collection of all my solved LeetCode problems.
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph
 |  |
@@ -563,6 +565,7 @@ A collection of all my solved LeetCode problems.
 | [2915-count-of-interesting-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3639-zero-array-transformation-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Ordered Set
@@ -677,6 +680,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
