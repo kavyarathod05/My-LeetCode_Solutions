@@ -11,14 +11,19 @@
  */
 class Solution {
 public:
-    bool dfs(TreeNode* root, int k ,unordered_set<int>& seen){
-        if(!root) return false;
-        if(seen.find(k-root->val)!=seen.end()) return true;
-        seen.insert(root->val);
-        return dfs(root->left, k ,seen) || dfs(root->right, k,seen);
+    bool f(TreeNode* root,set<int>&st, int k){
+        if(!root)return false;
+        if(f(root->left, st, k)) return true;
+        int v = root->val;
+        if(st.count(k-v)) return true;
+        st.insert(v);
+        if(f(root->right, st, k)) return true;
+        return false;
     }
+
     bool findTarget(TreeNode* root, int k) {
-        unordered_set<int>seen;
-        return dfs(root, k ,seen);
+        if(!root)return false;
+        set<int>st;
+        return f(root, st, k);
     }
 };
