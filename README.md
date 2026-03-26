@@ -215,6 +215,7 @@ A collection of all my solved LeetCode problems.
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
@@ -532,6 +533,7 @@ A collection of all my solved LeetCode problems.
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -557,6 +559,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -595,6 +598,7 @@ A collection of all my solved LeetCode problems.
 | [0540-single-element-in-a-sorted-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0794-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
