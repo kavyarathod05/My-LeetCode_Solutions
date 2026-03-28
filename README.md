@@ -66,6 +66,7 @@ A collection of all my solved LeetCode problems.
 | [0402-remove-k-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
@@ -493,6 +494,7 @@ A collection of all my solved LeetCode problems.
 | [0062-unique-paths](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0556-next-greater-element-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1012-numbers-with-repeated-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -667,6 +669,7 @@ A collection of all my solved LeetCode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1129-longest-string-chain) |
