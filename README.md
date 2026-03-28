@@ -510,6 +510,7 @@ A collection of all my solved LeetCode problems.
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Counting
 |  |
 | ------- |
@@ -622,6 +623,7 @@ A collection of all my solved LeetCode problems.
 | [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Sorting
 |  |
 | ------- |
@@ -692,6 +694,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Recursion
 |  |
 | ------- |
@@ -770,6 +773,7 @@ A collection of all my solved LeetCode problems.
 | [0240-search-a-2d-matrix-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1014-k-closest-points-to-origin](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Iterator
 |  |
 | ------- |
