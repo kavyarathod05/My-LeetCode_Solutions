@@ -17,6 +17,7 @@ A collection of all my solved LeetCode problems.
 | [0146-lru-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
@@ -206,6 +207,7 @@ A collection of all my solved LeetCode problems.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0494-target-sum) |
@@ -677,6 +679,7 @@ A collection of all my solved LeetCode problems.
 | [0090-subsets-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1009-complement-of-base-10-integer](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -702,6 +705,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Bitmask
 |  |
 | ------- |
