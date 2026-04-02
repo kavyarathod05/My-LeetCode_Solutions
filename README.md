@@ -159,6 +159,7 @@ A collection of all my solved LeetCode problems.
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3743-maximize-cyclic-partition-score](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3795-zero-array-transformation-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3795-zero-array-transformation-iv) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
@@ -280,6 +281,7 @@ A collection of all my solved LeetCode problems.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3743-maximize-cyclic-partition-score](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3795-zero-array-transformation-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3795-zero-array-transformation-iv) |
