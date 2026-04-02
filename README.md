@@ -156,6 +156,7 @@ A collection of all my solved LeetCode problems.
 | [2606-find-the-substring-with-maximum-cost](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3795-zero-array-transformation-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3795-zero-array-transformation-iv) |
@@ -266,6 +267,7 @@ A collection of all my solved LeetCode problems.
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-special-array-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3429-special-array-i) |
 | [3433-count-mentions-per-user](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -345,6 +347,7 @@ A collection of all my solved LeetCode problems.
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph
