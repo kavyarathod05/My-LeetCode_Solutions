@@ -84,6 +84,7 @@ A collection of all my solved LeetCode problems.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -479,6 +480,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0735-asteroid-collision](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-simple-bank-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2169-simple-bank-system) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3433-count-mentions-per-user](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
