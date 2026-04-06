@@ -67,6 +67,7 @@ A collection of all my solved LeetCode problems.
 | [0127-word-ladder](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0402-remove-k-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -303,6 +304,7 @@ A collection of all my solved LeetCode problems.
 | [0199-binary-tree-right-side-view](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -462,6 +464,7 @@ A collection of all my solved LeetCode problems.
 | [0146-lru-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -716,6 +719,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Bitmask
 |  |
