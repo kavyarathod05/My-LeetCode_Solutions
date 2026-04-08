@@ -164,6 +164,7 @@ A collection of all my solved LeetCode problems.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3743-maximize-cyclic-partition-score](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3791-number-of-balanced-integers-in-a-range](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3791-number-of-balanced-integers-in-a-range) |
 | [3795-zero-array-transformation-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3795-zero-array-transformation-iv) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3867-lexicographically-smallest-string-after-adjacent-removals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3867-lexicographically-smallest-string-after-adjacent-removals) |
