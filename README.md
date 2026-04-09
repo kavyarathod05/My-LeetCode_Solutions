@@ -95,6 +95,7 @@ A collection of all my solved LeetCode problems.
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3867-lexicographically-smallest-string-after-adjacent-removals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3867-lexicographically-smallest-string-after-adjacent-removals) |
 ## Backtracking
@@ -512,6 +513,7 @@ A collection of all my solved LeetCode problems.
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Math
 |  |
 | ------- |
