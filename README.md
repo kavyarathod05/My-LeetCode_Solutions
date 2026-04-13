@@ -23,6 +23,7 @@ A collection of all my solved LeetCode problems.
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0621-task-scheduler](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
@@ -224,6 +225,7 @@ A collection of all my solved LeetCode problems.
 | [0523-continuous-subarray-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
@@ -504,6 +506,7 @@ A collection of all my solved LeetCode problems.
 | [0402-remove-k-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
@@ -549,6 +552,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [1364-tuple-with-same-product](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -577,6 +581,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -676,6 +681,7 @@ A collection of all my solved LeetCode problems.
 | [0435-non-overlapping-intervals](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
