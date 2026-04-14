@@ -17,6 +17,7 @@ A collection of all my solved LeetCode problems.
 | [0146-lru-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0355-design-twitter](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -472,6 +473,7 @@ A collection of all my solved LeetCode problems.
 | [0173-binary-search-tree-iterator](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0355-design-twitter](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2169-simple-bank-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2169-simple-bank-system) |
@@ -580,6 +582,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
@@ -819,6 +822,7 @@ A collection of all my solved LeetCode problems.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
 ## Divide and Conquer
 |  |
