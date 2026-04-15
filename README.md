@@ -90,6 +90,7 @@ A collection of all my solved LeetCode problems.
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3194-find-words-containing-character](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
@@ -265,6 +266,7 @@ A collection of all my solved LeetCode problems.
 | [2249-count-the-hidden-sequences](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2690-house-robber-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
