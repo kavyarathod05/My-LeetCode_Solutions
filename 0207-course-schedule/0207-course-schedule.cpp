@@ -1,36 +1,34 @@
 class Solution {
 public:
-    bool dfs(int ind, vector<int>& vis, vector<int>& pathvis, vector<vector<int>>& adj){
+    bool f(int ind, vector<vector<int>>& adj, vector<int>& vis, vector<int>& pathvis) {
         vis[ind] = 1;
         pathvis[ind] = 1;
 
-        for(auto it : adj[ind]){
-            if(!vis[it]){
-                if(!dfs(it, vis, pathvis, adj))
-                    return false;
+        for (auto it : adj[ind]) {
+            if (!vis[it]) {
+                if (f(it, adj, vis, pathvis)) return true;
             }
-            else if(pathvis[it]){
-                return false; // cycle detected
+            else if (pathvis[it]) {
+                return true;
             }
         }
 
-        pathvis[ind] = 0; // backtrack
-        return true;
+        pathvis[ind] = 0; 
+        return false;
     }
 
-    bool canFinish(int n, vector<vector<int>>& edges) {
-        vector<int> vis(n, 0);       
-        vector<int> pathvis(n, 0);
+    bool canFinish(int n, vector<vector<int>>& p) {
         vector<vector<int>> adj(n);
 
-        for(auto it : edges){
+        for (auto it : p) {
             adj[it[1]].push_back(it[0]);
         }
 
-        for(int i = 0; i < n; i++){
-            if(!vis[i]){
-                if(!dfs(i, vis, pathvis, adj))
-                    return false;
+        vector<int> vis(n, 0), pathvis(n, 0);
+
+        for (int i = 0; i < n; i++) {
+            if (!vis[i]) {
+                if (f(i, adj, vis, pathvis)) return false;
             }
         }
 
