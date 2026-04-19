@@ -1,22 +1,31 @@
 class Solution {
 public:
-    int f(int ind, int buy , int cap ,vector<int>& prices, vector<vector<vector<int>>>&dp){
-        int n = prices.size();
-        if(ind==n || cap==0) return 0;
-        if(dp[ind][buy][cap]!=-1) return dp[ind][buy][cap];
-        if(buy){
-            // then 2 options either i buy or not buy
-            return dp[ind][buy][cap]= max(-prices[ind]+f(ind+1,0,cap,prices ,dp),f(ind+1, buy, cap, prices,dp));
-        }
-        else{
-            return dp[ind][buy][cap]=  max(prices[ind]+f(ind+1, 1, cap-1,prices,dp), f(ind+1, buy, cap, prices,dp));
-        }
-    }
     int maxProfit(vector<int>& prices) {
-        // ind , buy/sell ,cap profit i want to maximise;
         int n = prices.size();
-        // for second one buy ==1 then you can buy
-        vector<vector<vector<int>>> dp(n, vector<vector<int>>(2, vector<int>(3,-1)));
-        return f(0,1,2, prices,dp);
+
+        vector<vector<int>> ahead(2, vector<int>(3, 0));
+        vector<vector<int>> curr(2, vector<int>(3, 0));
+
+        for (int ind = n-1; ind >= 0; ind--) {
+            for (int buy = 0; buy <= 1; buy++) {
+                for (int cap = 1; cap <= 2; cap++) {
+
+                    if (buy) {
+                        curr[buy][cap] = max(
+                            -prices[ind] + ahead[0][cap],
+                            ahead[1][cap]
+                        );
+                    } else {
+                        curr[buy][cap] = max(
+                            prices[ind] + ahead[1][cap-1],
+                            ahead[0][cap]
+                        );
+                    }
+                }
+            }
+            ahead = curr;
+        }
+
+        return ahead[1][2];
     }
 };
