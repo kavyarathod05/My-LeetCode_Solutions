@@ -4,23 +4,13 @@ public:
         int n = nums1.size();
         int m = nums2.size();
         int maxi = 0 ;
-        for(int i=0;i<n;i++){
-            int val = nums1[i];
-            int low = i;
-            int high = m-1;
-            int ans= -1;
-            while(low<=high){
-                int mid = (low+high)/2; 
-                if(nums2[mid]>=val){
-                    ans= mid;
-                    low = mid+1;
-                }
-                else{
-                    high = mid-1;
-                }
+        int i=0,j=0;
+        while(i<n && j<m){
+            if(nums2[j]>=nums1[i]){
+                maxi = max(maxi , j-i);
+                j++;
             }
-            if(ans==-1) continue;
-            maxi = max(maxi , ans-i);
+            else i++;
         }
         return maxi;
     }
