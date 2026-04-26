@@ -29,6 +29,7 @@ A collection of all my solved LeetCode problems.
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [0874-walking-robot-simulation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -234,6 +235,7 @@ A collection of all my solved LeetCode problems.
 | [0794-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
+| [0874-walking-robot-simulation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -495,6 +497,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-simple-bank-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2169-simple-bank-system) |
