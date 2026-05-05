@@ -724,6 +724,7 @@ A collection of all my solved LeetCode problems.
 | [0015-3sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
@@ -827,6 +828,7 @@ A collection of all my solved LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0146-lru-cache) |
