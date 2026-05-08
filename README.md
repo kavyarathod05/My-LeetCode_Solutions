@@ -49,6 +49,7 @@ A collection of all my solved LeetCode problems.
 | [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -291,6 +292,7 @@ A collection of all my solved LeetCode problems.
 | [3433-count-mentions-per-user](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3639-zero-array-transformation-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -434,6 +436,7 @@ A collection of all my solved LeetCode problems.
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
 | ------- |
@@ -550,6 +553,7 @@ A collection of all my solved LeetCode problems.
 | [3321-type-of-triangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -763,6 +767,7 @@ A collection of all my solved LeetCode problems.
 ## Number Theory
 |  |
 | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Recursion
