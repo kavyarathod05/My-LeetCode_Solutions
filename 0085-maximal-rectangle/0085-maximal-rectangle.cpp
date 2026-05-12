@@ -1,28 +1,42 @@
 class Solution {
 public:
     int maximalRectangle(vector<vector<char>>& matrix) {
-        if (matrix.empty() || matrix[0].empty())
-            return 0;
+        int m = matrix.size();
+        int n = matrix[0].size();
         
-        int rows = matrix.size();
-        int cols = matrix[0].size();
-        vector<int> heights(cols + 1, 0);
-        int maxArea = 0;
-        
-        for (const auto& row : matrix) {
-            for (int i = 0; i < cols; i++) {
-                heights[i] = (row[i] == '1') ? heights[i] + 1 : 0;
-            }
-            int n = heights.size();             
-            for (int i = 0; i < n; i++) {
-                for (int j = i, minHeight = INT_MAX; j < n; j++) {
-                    minHeight = min(minHeight, heights[j]);
-                    int area = minHeight * (j - i + 1);
-                    maxArea = max(maxArea, area);
+        vector<vector<int>> grid(m, vector<int>(n,0));
+        int ans = 0;
+
+        for(int j = 0; j < n; j++){
+            if(matrix[0][j] == '1') grid[0][j] = 1;
+        }
+
+        for(int i = 0; i < m; i++){
+            
+            if(i > 0){
+                for(int j = 0; j < n; j++){
+                    if(matrix[i][j] == '1'){
+                        grid[i][j] = grid[i-1][j] + 1;
+                    } else {
+                        grid[i][j] = 0;
+                    }
                 }
             }
+
+            stack<int> st;
+            for(int j = 0; j <= n; j++){
+                int h = (j == n ? 0 : grid[i][j]);
+
+                while(!st.empty() && grid[i][st.top()] > h){
+                    int height = grid[i][st.top()];
+                    st.pop();
+
+                    int width = st.empty() ? j : j - st.top() - 1;
+                    ans = max(ans, height * width);
+                }
+                st.push(j);
+            }
         }
-        
-        return maxArea;
+        return ans;
     }
 };
