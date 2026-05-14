@@ -10,13 +10,15 @@
  * };
  */
 class Solution {
-public:
-    bool check(TreeNode* n1, TreeNode* n2){
-        if(n1==nullptr && n2==nullptr) return true;
-        if(n1==nullptr || n2==nullptr) return false;
-        return (n1->val==n2->val) && check(n1->left,n2->right) && check(n1->right,n2->left);
+public: 
+    
+    bool f(TreeNode* l ,TreeNode* r){
+        if(l==nullptr && r==nullptr) return true;
+        if(l==nullptr || r==nullptr) return false;
+        return (l->val ==r->val ) && f(l->right, r->left) && f(l->left, r->right);
     }
     bool isSymmetric(TreeNode* root) {
-        return check(root->left, root->right);
+        if(!root) return true;
+        return f(root->left, root->right);
     }
 };
