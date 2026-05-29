@@ -345,6 +345,7 @@ A collection of all my solved LeetCode problems.
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -437,6 +438,7 @@ A collection of all my solved LeetCode problems.
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -895,6 +897,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Database
 |  |
@@ -914,6 +917,7 @@ A collection of all my solved LeetCode problems.
 | [0207-course-schedule](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bucket Sort
 |  |
