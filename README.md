@@ -895,6 +895,7 @@ A collection of all my solved LeetCode problems.
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
