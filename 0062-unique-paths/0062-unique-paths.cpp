@@ -1,17 +1,27 @@
 class Solution {
 public:
-    int f(int i, int j, vector<vector<int>>&dp){
-        int m = dp.size();
-        int n = dp[0].size();
-        if(i>=m || j>=n) return 0; 
-        if(i==m-1 && j==n-1 ) return 1;
-        if(dp[i][j]!=-1) return dp[i][j];
-        int right = f(i,j+1, dp);
-        int down = f(i+1, j, dp);
-        return dp[i][j]= right+down;
-    }
     int uniquePaths(int m, int n) {
-        vector<vector<int>> dp(m, vector<int>(n,-1));
-        return f(0,0,dp);
+       
+        vector<int>prev(n,0);
+        for(int i=0;i<m;i++){
+            vector<int>temp(n,0);
+            for(int j=0;j<n;j++){
+                if(i==0 && j==0){
+                temp[0]=1;
+                continue;
+                }
+                int up= 0;
+                int left=0;
+                if(i>0){
+                    up= prev[j];
+                }
+                if(j>0){
+                    left= temp[j-1];
+                }
+                temp[j]=up+left;
+            }
+            prev=temp;
+        }
+        return prev[n-1];
     }
 };
