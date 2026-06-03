@@ -298,6 +298,7 @@ A collection of all my solved LeetCode problems.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -541,6 +542,7 @@ A collection of all my solved LeetCode problems.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
@@ -681,6 +683,7 @@ A collection of all my solved LeetCode problems.
 | [2690-house-robber-iv](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3791-fruits-into-baskets-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -724,6 +727,7 @@ A collection of all my solved LeetCode problems.
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -757,6 +761,7 @@ A collection of all my solved LeetCode problems.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
