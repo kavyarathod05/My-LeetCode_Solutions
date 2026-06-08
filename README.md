@@ -29,6 +29,7 @@ A collection of all my solved LeetCode problems.
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [0846-hand-of-straights](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -240,6 +241,7 @@ A collection of all my solved LeetCode problems.
 | [0778-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [0846-hand-of-straights](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0846-hand-of-straights) |
 | [0854-making-a-large-island](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0890-lemonade-change) |
@@ -538,6 +540,7 @@ A collection of all my solved LeetCode problems.
 | [0678-valid-parenthesis-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [0846-hand-of-straights](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1917-maximum-average-pass-ratio](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -721,6 +724,7 @@ A collection of all my solved LeetCode problems.
 | [0455-assign-cookies](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0846-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1129-longest-string-chain) |
