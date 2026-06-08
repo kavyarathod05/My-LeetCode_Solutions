@@ -610,6 +610,7 @@ A collection of all my solved LeetCode problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0355-design-twitter) |
@@ -866,6 +867,7 @@ A collection of all my solved LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -879,6 +881,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -928,6 +931,7 @@ A collection of all my solved LeetCode problems.
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Graph Theory
 |  |
