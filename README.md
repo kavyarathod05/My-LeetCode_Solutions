@@ -318,6 +318,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0101-symmetric-tree) |
@@ -473,6 +474,7 @@ A collection of all my solved LeetCode problems.
 | [0042-trapping-rain-water](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0155-min-stack) |
@@ -809,6 +811,7 @@ A collection of all my solved LeetCode problems.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0101-symmetric-tree) |
@@ -836,6 +839,7 @@ A collection of all my solved LeetCode problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0101-symmetric-tree) |
