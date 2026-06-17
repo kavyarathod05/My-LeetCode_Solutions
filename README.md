@@ -490,6 +490,7 @@ A collection of all my solved LeetCode problems.
 | [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -506,6 +507,7 @@ A collection of all my solved LeetCode problems.
 | [0225-implement-stack-using-queues](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0355-design-twitter](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0460-lfu-cache) |
+| [0901-online-stock-span](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2169-simple-bank-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
@@ -518,6 +520,7 @@ A collection of all my solved LeetCode problems.
 | [0402-remove-k-digits](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -667,6 +670,7 @@ A collection of all my solved LeetCode problems.
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Memoization
 |  |
