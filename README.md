@@ -263,6 +263,7 @@ A collection of all my solved LeetCode problems.
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -693,6 +694,7 @@ A collection of all my solved LeetCode problems.
 | [1004-max-consecutive-ones-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
