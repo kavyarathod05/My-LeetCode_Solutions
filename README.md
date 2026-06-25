@@ -54,6 +54,7 @@ A collection of all my solved LeetCode problems.
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -310,6 +311,7 @@ A collection of all my solved LeetCode problems.
 | [3643-flip-square-submatrix-vertically](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-maximize-cyclic-partition-score](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3743-maximize-cyclic-partition-score) |
@@ -603,6 +605,7 @@ A collection of all my solved LeetCode problems.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Queue
@@ -661,6 +664,7 @@ A collection of all my solved LeetCode problems.
 | [3639-zero-array-transformation-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -910,6 +914,7 @@ A collection of all my solved LeetCode problems.
 | [0240-search-a-2d-matrix-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1014-k-closest-points-to-origin](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Iterator
 |  |
@@ -924,6 +929,7 @@ A collection of all my solved LeetCode problems.
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Geometry
 |  |
@@ -955,6 +961,7 @@ A collection of all my solved LeetCode problems.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
 |  |
 | ------- |
