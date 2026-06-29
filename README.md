@@ -92,6 +92,7 @@ A collection of all my solved LeetCode problems.
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -273,6 +274,7 @@ A collection of all my solved LeetCode problems.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2047-find-a-peak-element-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
