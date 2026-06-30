@@ -37,6 +37,7 @@ A collection of all my solved LeetCode problems.
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1038-number-of-squareful-arrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1129-longest-string-chain](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1129-longest-string-chain) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -89,6 +90,7 @@ A collection of all my solved LeetCode problems.
 | [1129-longest-string-chain](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -623,6 +625,7 @@ A collection of all my solved LeetCode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
