@@ -1,25 +1,26 @@
 class Solution {
 public:
-    void solve(vector<int>&c, int t, vector<vector<int>>&ans, vector<int>&temp, int ind){
-        if(ind==c.size() || t<0){
+    void f(int ind, vector<int> temp, vector<vector<int>>& ans,
+           vector<int>& cand, int target) {
+        int n = cand.size();
+        if (ind == n) {
+            if (target == 0) {
+                ans.push_back(temp);
+            }
             return;
         }
-        if(t==0 ){
-            ans.push_back(temp);
-            return;
+        f(ind + 1, temp, ans, cand, target);
+        if (cand[ind] <= target) {
+            temp.push_back(cand[ind]);
+            f(ind, temp, ans, cand, target - cand[ind]);
+            temp.pop_back();
         }
-        //take
-        temp.push_back(c[ind]);
-        solve(c, t-c[ind], ans, temp , ind);
-        //not take
-        temp.pop_back();
-        solve(c, t, ans, temp , ind+1);
     }
-    vector<vector<int>> combinationSum(vector<int>& c, int target) {
-        int n = c.size();
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        int n = candidates.size();
         vector<vector<int>> ans;
         vector<int> temp;
-        solve(c, target, ans, temp,0);
+        f(0, temp, ans, candidates, target);
         return ans;
     }
 };
