@@ -298,6 +298,7 @@ A collection of all my solved LeetCode problems.
 | [3194-find-words-containing-character](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3212-count-the-number-of-good-partitions](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -394,6 +395,7 @@ A collection of all my solved LeetCode problems.
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -461,6 +463,7 @@ A collection of all my solved LeetCode problems.
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
@@ -646,6 +649,7 @@ A collection of all my solved LeetCode problems.
 | [1753-path-with-minimum-effort](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2434-design-a-number-container-system](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Monotonic Queue
 |  |
@@ -722,6 +726,7 @@ A collection of all my solved LeetCode problems.
 | [0803-cheapest-flights-within-k-stops](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -975,6 +980,7 @@ A collection of all my solved LeetCode problems.
 | [0785-is-graph-bipartite](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kavyarathod05/My-LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
